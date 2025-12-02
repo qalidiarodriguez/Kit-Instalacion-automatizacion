@@ -1,7 +1,7 @@
 # 🧩 Checklist de Instalación PASO A PASO (Para Principiantes)
 
 ## 🎯 ANTES DE COMENZAR: Tu actitud correcta
-**✅ Esto es normal:** Si te sientes abrumada, es parte del proceso.  
+**✅ Esto es normal:** Si te sientes abrumada(o), es parte del proceso.  
 **✅ Pide ayuda a la IA:** En cada paso te muestro CÓMO preguntarle.  
 **✅ Tómate tu tiempo:** Esto puede llevar 1-2 horas la primera vez.
 
