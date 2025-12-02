@@ -25,7 +25,7 @@
 
 #### **Opción C (para todos):**
 
-# En terminal prueba:
+En terminal prueba:
 where node  # Windows
 which node  # Mac/Linux
 ❌ Problema: Error de permisos EPERM o EACCESS
