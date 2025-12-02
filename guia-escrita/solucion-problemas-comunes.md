@@ -161,10 +161,10 @@ No puedo instalar nada (timeout)
 
 **✅ Soluciones:**
 
-# Cambia registry de npm
+Cambia registry de npm
 npm config set registry https://registry.npmjs.org/
 
-# O prueba con yarn
+O prueba con yarn
 npm install -g yarn
 yarn install
 
