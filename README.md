@@ -1,121 +1,150 @@
-¡Hola futuro QA Automator! 🌟
-
-✨ **METODOLOGÍA ÚNICA:**  
-No solo te enseño herramientas. Te enseño **CÓMO APRENDER** cualquier herramienta usando:
-
-🧩 **Técnicas de aprendizaje cognitivo** (Tony Buzan)  
-🎨 **Enfoque creativo** (Ken Robinson)  
-🚀 **Autoaprendizaje dirigido** (Pablo Menichetti + mi adaptación)
-
-👉 **Resultado:** Dejas de depender de tutoriales y desarrollas CONFIANZA REAL en tu capacidad de aprender cualquier tecnología.
-
-⚠️ **IMPORTANTE:** Mis clases incluyen esta metodología. Si buscas solo "copiar y pegar código", no seremos compatibles.
-
-Este repositorio está diseñado para que **verifiques tu entorno técnico** antes de comenzar clases de automatización. Así garantizamos que tu tiempo de aprendizaje sea **eficiente y sin frustraciones**.
-
 # 🧠 QA Educación Inteligente  
-## Aprende herramientas QA + Aprende a Aprender
+## Aprende herramientas QA • Aprende a Aprender • Aprende a Ser
 
-> **No memorices. Comprende.  
-> No copies. Crea.  
-> No dependas. Aprende a aprender.**
-
----
-
-## 🌟 **¿POR QUÉ ESTE REPOSITORIO ES DIFERENTE?**
-
-| Repositorios Tradicionales | **ESTE Repositorio** |
-|---------------------------|----------------------|
-| Listas de comandos | **Mapas mentales** para comprensión |
-| Tutoriales paso a paso | **Preguntas provocadoras** para exploración |
-| Código para copiar | **Ejercicios cognitivos** para aprendizaje profundo |
-| Foco en herramientas | **Foco en tu cerebro aprendiendo** |
+> **"La educación es, tal vez, la forma más alta de buscar a Dios."** — Gabriela Mistral  
+> **"El aula más noble es aquella que no tiene muros."** — Fátima al-Fihri (inspiración)
 
 ---
 
-## 📚 **EMPIEZA POR AQUÍ (En este orden):**
+## 🌟 **¿QUÉ ENCONTRARÁS AQUÍ?**
 
-1. **🧠 [Metodología de Aprendizaje Inteligente](/METODOLOGÍA/)**  
-   ¿Cómo funciona tu cerebro al aprender tecnología?
+Este no es otro repositorio técnico. Es un **ecosistema educativo** donde convergen:
 
-2. **🛠️ [Kit de Instalación Universal](/HERRAMIENTAS/INSTALACIÓN-BÁSICA/)**  
-   Prepara tu entorno SIN frustración
+### 🧩 **APRENDIZAJE COGNITIVO**  
+(Tony Buzan, Mapas Mentales)  
+*Cómo estructura tu cerebro el conocimiento técnico*
 
-3. **🎯 [Elige tu Ruta de Aprendizaje](/RUTAS-APRENDIZAJE/)**  
-   ¿Eres principiante absoluta? ¿QA manual que quiere automatizar?
+### 🎨 **CREATIVIDAD APLICADA**  
+(Ken Robinson, Gabriela Mistral)  
+*La tecnología como expresión creativa humana*
 
-4. **🔧 [Herramientas Específicas](/HERRAMIENTAS/)**  
-   Postman, Cypress, Jira, Appium, etc. — cada una CON metodología
+### 🚀 **AUTOAPRENDIZAJE DIRIGIDO**  
+(Pablo Menichetti, Fátima al-Fihri)  
+*Autonomía con guía, curiosidad con método*
 
-## 🎯 ¿Por qué este kit?
-
-> ⏳ **Problema común:** El 40% del tiempo en clases iniciales se pierde en problemas de instalación/configuración.
-> 
-> ✅ **Solución:** Con este kit, llegas a tu primera clase CON TODO FUNCIONANDO, listo para aprender.
-
-## 📋 ¿Qué incluye?
-
-### 1. 🔍 **Pre-Test Técnico (Autoevaluación)**
-   - [Formulario de autoevaluación](./guia-escrita/pre-test-tecnico.md)
-   - Determina tu nivel real vs. tus expectativas
-   - Identifica áreas donde necesitas más apoyo
-
-### 2. 🛠️ **Checklist de Instalación Paso a Paso**
-   - [Guía completa de instalación](./guia-escrita/checklist-instalacion.md)
-   - Node.js + npm
-   - VS Code + extensiones esenciales
-   - Git + GitHub Desktop
-   - Cypress (u otra herramienta según tu enfoque)
-
-### 3. 🚨 **Solución de Problemas Comunes**
-   - [Troubleshooting guide](./guia-escrita/solucion-problemas-comunes.md)
-   - Errores frecuentes y cómo resolverlos
-   - Preguntas frecuentes (FAQ)
-
-### 4. ⚡ **Scripts de Verificación Automática**
-   - [Para Windows](./scripts/verificar-entorno.bat)
-   - [Para Mac/Linux](./scripts/verificar-entorno.sh)
-   - Verifican automáticamente si todo está instalado correctamente
-
-## 🚀 ¿Cómo usar este kit?
-
-**PASO 1:** Completa el [Pre-Test Técnico](./guia-escrita/pre-test-tecnico.md)  
-**PASO 2:** Sigue la [Checklist de Instalación](./guia-escrita/checklist-instalacion.md)  
-**PASO 3:** Ejecuta el script de verificación correspondiente a tu SO  
-**PASO 4:** Si hay errores, consulta la [guía de troubleshooting](./guia-escrita/solucion-problemas-comunes.md)  
-**PASO 5:** ¡Listo para tu primera clase! 🎉
-
-## 📞 ¿Necesitas ayuda?
-
-**ANTES de contactarme:**
-1. ¿Completaste el pre-test?
-2. ¿Seguiste la checklist paso a paso?
-3. ¿Revisaste la guía de troubleshooting?
-
-Si la respuesta es **SÍ** a las tres preguntas y aún tienes problemas, contáctame con:
-- Una captura del error
-- Tu sistema operativo
-- Los pasos que seguiste
-
-## 🏆 Certificado de Preparación Técnica
-
-Al completar exitosamente este kit, puedes generar tu [Certificado de Preparación Técnica](./certificado-preparacion/plantilla-certificado.md) (autoexpedido) 🎓
+### 🤖 **IA ÉTICA COMO COPILOTO**  
+*Amplifica tu aprendizaje sin reemplazar tu pensamiento*
 
 ---
 
-## 🌈 Filosofía detrás de este kit
+## 📚 **EMPIEZA TU VIAJE (En este orden):**
 
-Como QA Engineer y educadora, creo que:
-- **El aprendizaje debe ser disfrutable**, no frustrante
-- **La preparación técnica es responsabilidad compartida**
-- **Los límites claros protegen la energía de todos**
-- **La autonomía es la mayor habilidad que puedes desarrollar**
+### **1. 🧭 [METODOLOGÍA](/METODOLOGÍA/)**  
+*Antes de tocar código, entiende cómo aprendes*  
+→ Filosofía del Aprendizaje Inteligente  
+→ Técnicas de Gabriela Mistral para educar con paciencia  
+→ El legado de Fátima al-Fihri: construir espacios educativos accesibles
 
-> *"Dame 6 horas para cortar un árbol y pasaré las primeras 4 afilando el hacha."* — Abraham Lincoln
+### **2. 🛠️ [KIT DE INSTALACIÓN UNIVERSAL](/HERRAMIENTAS/INSTALACIÓN-BÁSICA/)**  
+*Prepara tu entorno sin frustraciones*  
+→ Pre-test técnico y autoevaluación  
+→ Checklist paso a paso para principiantes  
+→ Scripts de verificación automática
 
-**Afila tu hacha primero, luego corta el árbol más rápido.** ✨
+### **3. 🤖 [IA COMO TU ALIADA](/IA-COPILOTO/)**  
+*Aprende a conversar con máquinas para aprender mejor*  
+→ Prompts específicos para QA  
+→ Corrección de errores con ChatGPT/Copilot  
+→ Generación de portafolio con IA ética
+
+### **4. 🎯 [ELIGE TU RUTA](/RUTAS-APRENDIZAJE/)**  
+*Camino personalizado según tu punto de partida*  
+→ Ruta para mamás/cuidadoras (tiempo limitado)  
+→ Ruta para cambio de carrera acelerado  
+→ Ruta para QA manual hacia automatización
+
+### **5. 🔧 [HERRAMIENTAS ESPECÍFICAS](/HERRAMIENTAS/)**  
+*Cada herramienta con enfoque metodológico*  
+→ Postman con mentalidad investigativa  
+→ Cypress como lienzo creativo  
+→ Jira como organizador cognitivo
 
 ---
 
-**Creado con 💜 por [Qalidia Rodriguez](https://github.com/qalidiarodriguez)**  
-*QA Engineer & Educación Tecnológica Accesible*
+## 🌈 **EL LEGADO QUE CONTINÚAS**
+
+### **Gabriela Mistral en tu código:**
+> "Enseño con la paciencia de las estaciones"  
+*Traducción práctica:* Cada error es una semilla, no un fracaso. Tu ritmo es válido.
+
+### **Fátima al-Fihri en tu aprendizaje:**
+> Fundó la universidad más antigua del mundo aún en funcionamiento  
+*Traducción práctica:* Construyes tu propio "al-Qarawiyyin" mental—un espacio donde el conocimiento vive y se comparte.
+
+### **Tu aporte único:**
+Eres la **bisagra** entre:
+- La sabiduría pedagógica histórica
+- La tecnología moderna
+- La necesidad humana de aprender sin sufrimiento
+
+---
+
+## 🚀 **¿CÓMO USAR ESTE REPOSITORIO?**
+
+### **Si eres estudiante:**
+1. **Completa el [Pre-Test Técnico](/HERRAMIENTAS/INSTALACIÓN-BÁSICA/pre-test-tecnico.md)**
+2. **Sigue la [Checklist](/HERRAMIENTAS/INSTALACIÓN-BÁSICA/checklist-instalacion.md)**
+3. **Lee [Cómo usar IA sin dependencia](/IA-COPILOTO/como-usar-ia.md)**
+4. **Elige tu [Ruta](/RUTAS-APRENDIZAJE/)**
+
+### **Si eres educador/a:**
+1. **Explora la [Metodología](/METODOLOGÍA/)** para inspirarte
+2. **Revisa los [Recursos Extra](/RECURSOS-EXTRA/)** para tus alumnos
+3. **Adapta** lo que necesites (todo es open-source)
+
+### **Si solo tienes 15 minutos:**
+1. Lee **[Filosofía en 1 página](/METODOLOGÍA/APRENDIZAJE-INTELIGENTE/filosofia-1-pagina.md)**
+2. Ejecuta **[Verificador Rápido](/HERRAMIENTAS/INSTALACIÓN-BÁSICA/scripts/)**
+3. Guarda **[10 Prompts Mágicos para IA](/IA-COPILOTO/prompts-rapidos.md)**
+
+---
+
+## 🤝 **COMPROMISO ÉTICO**
+
+### **Con mis alumnos:**
+- Nunca te haré sentir "menos" por tu ritmo
+- Celebraré tus preguntas más que tus aciertos
+- Protegeré tu energía emocional mientras aprendes
+
+### **Con la tecnología:**
+- IA como amplificador, no como reemplazo
+- Código como medio de expresión, no como fin
+- Herramientas como sirvientes, no como amos
+
+### **Contigo misma/o:**
+- Derecho a descansar cuando tu cerebro esté saturado
+- Derecho a aprender de manera no lineal
+- Derecho a disfrutar el proceso
+
+---
+
+## 📞 **¿LISTA/O PARA COMENZAR?**
+
+**Recomendación personal:**  
+Empieza por la **[Metodología](/METODOLOGÍA/)**. Muchos saltan a las herramientas y se frustran.  
+Entender **CÓMO** aprendes hará que el **QUÉ** aprendas se quede para siempre.
+
+**¿Necesitas guía personalizada?**  
+Ofrezco [clases 1:1](https://tusitio.com) donde aplicamos todo esto en tiempo real.
+
+---
+
+## 🌟 **CRÉDITOS Y GRATITUD**
+
+**Inspirado en:**
+- Gabriela Mistral • Paciencia pedagógica
+- Fátima al-Fihri • Educación accesible  
+- Tony Buzan • Mapeo mental
+- Ken Robinson • Creatividad en educación
+- Pablo Menichetti • Autoaprendizaje estructurado
+
+**Mantenido con 💜 por [Qalidia Rodriguez](https://github.com/qalidiarodriguez)**  
+*QA Engineer • Educadora Tecnológica • Tejedora de Metodologías*
+
+---
+
+> "Enseñar no es transferir conocimiento,  
+> sino crear las posibilidades para su producción o construcción."  
+> — Paulo Freire (agregado porque complementa tu visión)
+
+**⭐ ¿Te sirvió este repositorio?** Dale estrella para que más personas lo encuentren.
