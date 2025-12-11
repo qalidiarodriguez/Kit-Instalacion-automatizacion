@@ -13,6 +13,40 @@ No solo te enseño herramientas. Te enseño **CÓMO APRENDER** cualquier herrami
 
 Este repositorio está diseñado para que **verifiques tu entorno técnico** antes de comenzar clases de automatización. Así garantizamos que tu tiempo de aprendizaje sea **eficiente y sin frustraciones**.
 
+# 🧠 QA Educación Inteligente  
+## Aprende herramientas QA + Aprende a Aprender
+
+> **No memorices. Comprende.  
+> No copies. Crea.  
+> No dependas. Aprende a aprender.**
+
+---
+
+## 🌟 **¿POR QUÉ ESTE REPOSITORIO ES DIFERENTE?**
+
+| Repositorios Tradicionales | **ESTE Repositorio** |
+|---------------------------|----------------------|
+| Listas de comandos | **Mapas mentales** para comprensión |
+| Tutoriales paso a paso | **Preguntas provocadoras** para exploración |
+| Código para copiar | **Ejercicios cognitivos** para aprendizaje profundo |
+| Foco en herramientas | **Foco en tu cerebro aprendiendo** |
+
+---
+
+## 📚 **EMPIEZA POR AQUÍ (En este orden):**
+
+1. **🧠 [Metodología de Aprendizaje Inteligente](/METODOLOGÍA/)**  
+   ¿Cómo funciona tu cerebro al aprender tecnología?
+
+2. **🛠️ [Kit de Instalación Universal](/HERRAMIENTAS/INSTALACIÓN-BÁSICA/)**  
+   Prepara tu entorno SIN frustración
+
+3. **🎯 [Elige tu Ruta de Aprendizaje](/RUTAS-APRENDIZAJE/)**  
+   ¿Eres principiante absoluta? ¿QA manual que quiere automatizar?
+
+4. **🔧 [Herramientas Específicas](/HERRAMIENTAS/)**  
+   Postman, Cypress, Jira, Appium, etc. — cada una CON metodología
+
 ## 🎯 ¿Por qué este kit?
 
 > ⏳ **Problema común:** El 40% del tiempo en clases iniciales se pierde en problemas de instalación/configuración.
