@@ -1,6 +1,15 @@
-# 🧰 Kit de Instalación & Pre-Test Técnico
-
 ¡Hola futuro QA Automator! 🌟
+
+✨ **METODOLOGÍA ÚNICA:**  
+No solo te enseño herramientas. Te enseño **CÓMO APRENDER** cualquier herramienta usando:
+
+🧩 **Técnicas de aprendizaje cognitivo** (Tony Buzan)  
+🎨 **Enfoque creativo** (Ken Robinson)  
+🚀 **Autoaprendizaje dirigido** (Pablo Menichetti + mi adaptación)
+
+👉 **Resultado:** Dejas de depender de tutoriales y desarrollas CONFIANZA REAL en tu capacidad de aprender cualquier tecnología.
+
+⚠️ **IMPORTANTE:** Mis clases incluyen esta metodología. Si buscas solo "copiar y pegar código", no seremos compatibles.
 
 Este repositorio está diseñado para que **verifiques tu entorno técnico** antes de comenzar clases de automatización. Así garantizamos que tu tiempo de aprendizaje sea **eficiente y sin frustraciones**.
 
