@@ -145,7 +145,9 @@ Revisa tu mapa mental inicial: ¿qué paso podría haber saltado?
 
 🧩 TU PRIMER MAPA MENTAL (ejemplo visual)
 Mira mi mapa mental que ya compartí contigo.
+
 Ahora crea el TUYO con tu propia estructura, pero si te está costando te ayudo con esta idea:
+´´´bash
 📌 CENTRO: Playwright Instalado
 │
 ├── 🔍 PRE-REQUISITOS
@@ -172,7 +174,7 @@ Ahora crea el TUYO con tu propia estructura, pero si te está costando te ayudo 
     ├── Versión muestra
     ├── Script de test corre
     └── Puedo crear primer test
-
+´´´
 💡 Consejo: Usa COLORES DIFERENTES para:
 
 Éxitos (verde)
