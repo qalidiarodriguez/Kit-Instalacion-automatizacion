@@ -163,14 +163,14 @@ pm.test("Status code es 200", function () {
 ```
 3.Click en Send otra vez
 
-Paso 5.4: Verificación del test
+### **Paso 5.4: Verificación del test**
 ✅ Debe aparecer abajo: 1 test passed
 
 ¿Qué acaba de pasar?
 No "aprendiste a automatizar".
 Aprendiste que la automatización son reglas claras, no magia.
 
-📚 PASO 6: ORGANIZACIÓN (portafolio desde el día 1)
+### 📚 PASO 6: ORGANIZACIÓN (portafolio desde el día 1)
 Guarda tu trabajo como profesional:
 Click en Save
 
@@ -185,7 +185,7 @@ Mañana, cuando tengas 50 tests, sabrás dónde están.
 La próxima semana, esto será parte de tu portafolio.
 En una entrevista, podrás mostrar organización desde el inicio.
 
-🧠 PASO 7: REFLEXIÓN COGNITIVA (lo más importante)
+### 🧠 PASO 7: REFLEXIÓN COGNITIVA (lo más importante)
 Responde mentalmente:
 ¿Dónde está Postman en mi computadora?
 (Si no lo sabes, vuelve al Paso 3)
@@ -198,7 +198,7 @@ Automatizar = decirle a la máquina qué revisar siempre.
 Hoy le dijiste: "revisa que el status sea 200".
 Mañana le dirás más cosas.
 
-📁 ESTRUCTURA FINAL DE TU CARPETA (ahora sí completa)
+### **📁 ESTRUCTURA FINAL DE TU CARPETA (ahora sí completa)**
 clase_[tu_nombre]/
 ├── postman/
 │   ├── instalacion.md          # Tus notas de ESTE proceso
@@ -207,7 +207,7 @@ clase_[tu_nombre]/
 └── apuntes/
     └── mentalidad_qa.md        # Frases clave que aprendiste hoy
 
-🔄 RESUMEN EN 5 FRASES CLAVE (para tu mapa mental)
+### **🔄 RESUMEN EN 5 FRASES CLAVE (para tu mapa mental)**
 "Primero el espacio, luego la herramienta" → Organiza tu carpeta
 "Si no sabes dónde está, no está instalado" → Verifica ubicación
 "Primero entender, luego automatizar" → Lee como QA primero
@@ -236,7 +236,7 @@ Buscar en Postman (Collections)
 Aprender la interfaz
 Crear un sistema de organización MEJOR
 
-🌟 TU LOGRO HOY (reconócelo)
+### **🌟 TU LOGRO HOY (reconócelo)**
 No instalaste "solo Postman".
 Instalaste:
 
@@ -246,7 +246,7 @@ Instalaste:
 ✅ Un primer proyecto para tu portafolio
 ✅ Confianza para instalar CUALQUIER herramienta después
 
-📞 ¿NECESITAS MÁS AYUDA?
+### **📞 ¿NECESITAS MÁS AYUDA?**
 Recuerda el flujo:
 Intenta tú primero (15 min)
 Pregunta a la IA con contexto completo
