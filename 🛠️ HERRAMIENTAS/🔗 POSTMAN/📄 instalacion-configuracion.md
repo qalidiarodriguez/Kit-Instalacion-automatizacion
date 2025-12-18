@@ -156,11 +156,11 @@ Primero entiendes, luego automatizas.
 ### **Paso 5.3: El primer "script" (más simple imposible)**
 1. Ve a la pestaña **Tests**
 2. Pega esto (sí, copia y pega esta vez):
-´´´bash
+```javascript
 pm.test("Status code es 200", function () {
- pm.response.to.have.status(200);
+    pm.response.to.have.status(200);
 });
-´´´
+```
 3.Click en Send otra vez
 
 Paso 5.4: Verificación del test
